@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GTA UniSpots Y2K",
+  "description": "The ultimate retro-futuristic guide for GTA students to find study spots, social hubs, and networking events.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
